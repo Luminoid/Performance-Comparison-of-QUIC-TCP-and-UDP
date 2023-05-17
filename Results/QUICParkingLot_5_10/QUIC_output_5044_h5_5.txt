@@ -1,0 +1,25 @@
+starting client with host 10.0.0.61, port 5044, runtime 10s, cc cubic, iw 10
+connection establishment time: 1341ms
+time to first byte: 1389ms
+second 0: 196.1 kbit/s (25107 bytes received)
+second 1: 186.1 kbit/s (23820 bytes received)
+second 2: 244.9 kbit/s (31353 bytes received)
+second 3: 78.34 kbit/s (10027 bytes received)
+second 4: 0 bit/s (0 bytes received)
+second 5: 0 bit/s (0 bytes received)
+second 6: 343 kbit/s (43899 bytes received)
+second 7: 284.2 kbit/s (36376 bytes received)
+second 8: 235.1 kbit/s (30088 bytes received)
+second 9: 156.7 kbit/s (20054 bytes received)
+second 10: 0 bit/s (0 bytes received)
+second 11: 0 bit/s (0 bytes received)
+second 12: 0 bit/s (0 bytes received)
+second 13: 0 bit/s (0 bytes received)
+second 14: 0 bit/s (0 bytes received)
+second 15: 0 bit/s (0 bytes received)
+second 16: 0 bit/s (0 bytes received)
+second 17: 0 bit/s (0 bytes received)
+second 18: 0 bit/s (0 bytes received)
+second 19: 0 bit/s (0 bytes received)
+connection closed
+send_pending failed during connection close

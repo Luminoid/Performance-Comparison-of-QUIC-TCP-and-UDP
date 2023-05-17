@@ -1,0 +1,27 @@
+starting client with host 10.0.0.30, port 5014, runtime 20s, cc reno, iw 10
+connection establishment time: 213ms
+time to first byte: 313ms
+second 0: 8.291 mbit/s (1086768 bytes received)
+second 1: 11.79 mbit/s (1544905 bytes received)
+second 2: 15.46 mbit/s (2026825 bytes received)
+second 3: 18.15 mbit/s (2379480 bytes received)
+second 4: 17.77 mbit/s (2329239 bytes received)
+second 5: 17.36 mbit/s (2275315 bytes received)
+second 6: 18.15 mbit/s (2379480 bytes received)
+second 7: 17.23 mbit/s (2259000 bytes received)
+second 8: 20.12 mbit/s (2636755 bytes received)
+second 9: 23.07 mbit/s (3023295 bytes received)
+second 10: 22.12 mbit/s (2899050 bytes received)
+second 11: 24.1 mbit/s (3158835 bytes received)
+second 12: 23.76 mbit/s (3114910 bytes received)
+second 13: 23.97 mbit/s (3141265 bytes received)
+second 14: 24.71 mbit/s (3239155 bytes received)
+second 15: 0 bit/s (0 bytes received)
+second 16: 0 bit/s (0 bytes received)
+second 17: 0 bit/s (0 bytes received)
+second 18: 0 bit/s (0 bytes received)
+second 19: 0 bit/s (0 bytes received)
+second 20: 0 bit/s (0 bytes received)
+second 21: 0 bit/s (0 bytes received)
+connection closed
+send_pending failed during connection close

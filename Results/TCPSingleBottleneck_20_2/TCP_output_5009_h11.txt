@@ -1,0 +1,30 @@
+iperf 3.9
+Linux primary 5.15.0-71-generic #78-Ubuntu SMP Tue Apr 18 09:00:08 UTC 2023 aarch64
+Control connection MSS 1448
+Time: Fri, 12 May 2023 06:31:21 GMT
+Connecting to host 10.0.0.1, port 5009
+      Cookie: yowe5h44iobo6pnc3iq47kdmpq3pd7jtaupj
+      TCP MSS: 1448 (default)
+[  5] local 10.0.0.11 port 37064 connected to 10.0.0.1 port 5009
+Starting Test: protocol: TCP, 1 streams, 131072 byte blocks, omitting 0 seconds, 10 second test, tos 0
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  1.06 MBytes  8.87 Mbits/sec   14   28.3 KBytes       
+[  5]   1.00-2.01   sec   255 KBytes  2.06 Mbits/sec   10   11.3 KBytes       
+[  5]   2.01-3.01   sec  0.00 Bytes  0.00 bits/sec    4   8.48 KBytes       
+[  5]   3.01-4.00   sec   255 KBytes  2.11 Mbits/sec    0   14.1 KBytes       
+[  5]   4.00-5.01   sec  0.00 Bytes  0.00 bits/sec    2   12.7 KBytes       
+[  5]   5.01-6.00   sec   318 KBytes  2.62 Mbits/sec    2   11.3 KBytes       
+[  5]   6.00-7.00   sec  0.00 Bytes  0.00 bits/sec    6   4.24 KBytes       
+[  5]   7.00-8.01   sec  0.00 Bytes  0.00 bits/sec    1   7.07 KBytes       
+[  5]   8.01-9.01   sec  0.00 Bytes  0.00 bits/sec    3   8.48 KBytes       
+[  5]   9.01-10.01  sec  0.00 Bytes  0.00 bits/sec    4   8.48 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+Test Complete. Summary Results:
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.01  sec  1.87 MBytes  1.56 Mbits/sec   46             sender
+[  5]   0.00-10.15  sec  1.32 MBytes  1.09 Mbits/sec                  receiver
+CPU Utilization: local/sender 1.9% (0.2%u/1.8%s), remote/receiver 0.1% (0.0%u/0.1%s)
+snd_tcp_congestion cubic
+rcv_tcp_congestion cubic
+
+iperf Done.

@@ -1,0 +1,17 @@
+iperf 3.9
+Linux primary 5.15.0-71-generic #78-Ubuntu SMP Tue Apr 18 09:00:08 UTC 2023 aarch64
+Control connection MSS 1448
+Time: Mon, 15 May 2023 19:00:07 GMT
+Connecting to host 10.0.0.61, port 5053
+      Cookie: g65fifj4htzmq2g2xxworfuflmxghwkpzyve
+      TCP MSS: 1448 (default)
+[  5] local 10.0.0.24 port 38006 connected to 10.0.0.61 port 5053
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-5056.59 sec  0.00 Bytes  0.00 bits/sec    4   14.1 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+Test Complete. Summary Results:
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-5056.59 sec  0.00 Bytes  0.00 bits/sec    4             sender
+[  5]   0.00-5056.59 sec  0.00 Bytes  0.00 bits/sec                  receiver
+CPU Utilization: local/sender 17.8% (3.2%u/14.6%s), remote/receiver 0.0% (0.0%u/0.0%s)
+snd_tcp_congestion bbr

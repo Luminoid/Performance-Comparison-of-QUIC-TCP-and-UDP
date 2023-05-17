@@ -1,0 +1,14 @@
+starting client with host 10.0.0.61, port 5040, runtime 10s, cc cubic, iw 10
+connection establishment time: 320ms
+time to first byte: 373ms
+second 0: 715.4 kbit/s (91568 bytes received)
+second 1: 548.6 kbit/s (70222 bytes received)
+second 2: 568.4 kbit/s (72758 bytes received)
+second 3: 431 kbit/s (55163 bytes received)
+second 4: 382 kbit/s (48896 bytes received)
+second 5: 480.2 kbit/s (61469 bytes received)
+second 6: 695.8 kbit/s (89059 bytes received)
+second 7: 627.1 kbit/s (80270 bytes received)
+second 8: 568.1 kbit/s (72719 bytes received)
+second 9: 372.1 kbit/s (47635 bytes received)
+connection closed

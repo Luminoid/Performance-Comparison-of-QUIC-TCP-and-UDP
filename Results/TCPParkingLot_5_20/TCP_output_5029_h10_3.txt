@@ -1,0 +1,17 @@
+iperf 3.9
+Linux primary 5.15.0-71-generic #78-Ubuntu SMP Tue Apr 18 09:00:08 UTC 2023 aarch64
+Control connection MSS 1448
+Time: Mon, 15 May 2023 21:53:25 GMT
+Connecting to host 10.0.0.62, port 5029
+      Cookie: oufo32henyjexj6p7blbfjmbqrui4jo2vvor
+      TCP MSS: 1448 (default)
+[  5] local 10.0.0.57 port 36220 connected to 10.0.0.62 port 5029
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-15477.31 sec  0.00 Bytes  0.00 bits/sec    5   1.41 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+Test Complete. Summary Results:
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-15477.31 sec  0.00 Bytes  0.00 bits/sec    5             sender
+[  5]   0.00-15477.31 sec  0.00 Bytes  0.00 bits/sec                  receiver
+CPU Utilization: local/sender 77.2% (14.4%u/62.8%s), remote/receiver 0.0% (0.0%u/0.0%s)
+snd_tcp_congestion cubic

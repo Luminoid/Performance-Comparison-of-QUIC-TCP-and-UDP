@@ -1,0 +1,2 @@
+starting client with host 10.0.0.62, port 5010, runtime 10s, cc cubic, iw 10
+connection closed

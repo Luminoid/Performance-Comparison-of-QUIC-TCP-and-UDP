@@ -1,0 +1,8 @@
+iperf 3.9
+Linux primary 5.15.0-71-generic #78-Ubuntu SMP Tue Apr 18 09:00:08 UTC 2023 aarch64
+Control connection MSS 1448
+Setting UDP block size to 1448
+Time: Fri, 12 May 2023 08:07:13 GMT
+Connecting to host 10.0.0.61, port 5043
+      Cookie: vg4y5fvlm35xzw33ygbaifdcvez3ceest6ze
+      Target Bitrate: 10000000

@@ -1,0 +1,21 @@
+starting client with host 10.0.0.1, port 5003, runtime 10s, cc cubic, iw 10
+connection establishment time: 10253ms
+time to first byte: 14284ms
+second 0: 127.6 kbit/s (16337 bytes received)
+second 1: 0 bit/s (0 bytes received)
+second 2: 0 bit/s (0 bytes received)
+second 3: 0 bit/s (0 bytes received)
+second 4: 147.1 kbit/s (18825 bytes received)
+second 5: 0 bit/s (0 bytes received)
+second 6: 0 bit/s (0 bytes received)
+second 7: 0 bit/s (0 bytes received)
+second 8: 107.9 kbit/s (13805 bytes received)
+second 9: 0 bit/s (0 bytes received)
+second 10: 0 bit/s (0 bytes received)
+second 11: 0 bit/s (0 bytes received)
+second 12: 0 bit/s (0 bytes received)
+second 13: 0 bit/s (0 bytes received)
+second 14: 0 bit/s (0 bytes received)
+second 15: 0 bit/s (0 bytes received)
+second 16: 0 bit/s (0 bytes received)
+second 17: 0 bit/s (0 bytes received)

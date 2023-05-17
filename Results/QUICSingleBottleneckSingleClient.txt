@@ -1,0 +1,14 @@
+starting client with host 10.0.0.1, port 18080, runtime 10s, cc reno, iw 10
+connection establishment time: 26ms
+time to first byte: 27ms
+second 0: 85.33 mbit/s (11183818 bytes received)
+second 1: 87.87 mbit/s (11517546 bytes received)
+second 2: 88.21 mbit/s (11561584 bytes received)
+second 3: 84.24 mbit/s (11041986 bytes received)
+second 4: 83.72 mbit/s (10972788 bytes received)
+second 5: 87.89 mbit/s (11520091 bytes received)
+second 6: 85.43 mbit/s (11197481 bytes received)
+second 7: 82.92 mbit/s (10868674 bytes received)
+second 8: 86.86 mbit/s (11384518 bytes received)
+second 9: 88.13 mbit/s (11551405 bytes received)
+connection closed

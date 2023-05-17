@@ -1,0 +1,3 @@
+starting client with host 10.0.0.61, port 5042, runtime 10s, cc cubic, iw 10
+connection establishment time: 1134ms
+connection closed

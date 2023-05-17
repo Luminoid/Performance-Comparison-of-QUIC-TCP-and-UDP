@@ -1,0 +1,2 @@
+starting client with host 10.0.0.61, port 5052, runtime 10s, cc cubic, iw 10
+connection establishment time: 11220ms

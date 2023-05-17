@@ -1,0 +1,24 @@
+starting client with host 10.0.0.30, port 5005, runtime 20s, cc reno, iw 10
+connection establishment time: 55ms
+time to first byte: 74ms
+second 0: 5.304 mbit/s (695242 bytes received)
+second 1: 3.226 mbit/s (422817 bytes received)
+second 2: 4.95 mbit/s (648789 bytes received)
+second 3: 3.638 mbit/s (476816 bytes received)
+second 4: 3.858 mbit/s (505707 bytes received)
+second 5: 490 kbit/s (62725 bytes received)
+second 6: 431.4 kbit/s (55220 bytes received)
+second 7: 539.2 kbit/s (69017 bytes received)
+second 8: 617.7 kbit/s (79065 bytes received)
+second 9: 617.7 kbit/s (79065 bytes received)
+second 10: 715.7 kbit/s (91615 bytes received)
+second 11: 1.044 mbit/s (136795 bytes received)
+second 12: 813.4 kbit/s (104120 bytes received)
+second 13: 656.9 kbit/s (84077 bytes received)
+second 14: 548.9 kbit/s (70265 bytes received)
+second 15: 715.7 kbit/s (91607 bytes received)
+second 16: 666.7 kbit/s (85340 bytes received)
+second 17: 892.1 kbit/s (114189 bytes received)
+second 18: 49.02 kbit/s (6275 bytes received)
+second 19: 0 bit/s (0 bytes received)
+connection closed
